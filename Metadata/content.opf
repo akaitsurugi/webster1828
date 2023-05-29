@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core"
+xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Webster's Dictionary 1828</dc:Title>
+<dc:Language>en</dc:Language>
+<dc:Identifier id="uid">**REPLACE**</dc:Identifier>
+<dc:Creator>Christian Liberty Institute</dc:Creator>
+<dc:Rights>CC0: To the extent possible under law, Christian Liberty Institute has waived all copyright and related or neighboring rights to this work.</dc:Rights>
+<dc:description>The purpose for creating this is to preserve, and promote the use of, the 1828 version of Webster's Dictionary. After reviewing several dictionaries, I found this one to have the best definitions, especially for understanding things written during the 17th-19th centuries. Dictionaries that came out in the 20th and 21st centuries are lackluster compared to the previous ones, since post-modernists felt that language was another "social construct" that needed to be torn apart and turned into nothing. You can clearly see this by comparing definitions over time, where they become more vague and sometimes even the opposite of what they were originally. This is maintained by Christian Liberty Institute.</dc:description>
+<dc:Subject BASICCode="REF008000">Dictionaries</dc:Subject>
+</dc-metadata>
+<x-metadata>
+<output encoding="utf-8"></output>
+<DictionaryInLanguage>en</DictionaryInLanguage>
+<DictionaryOutLanguage>en</DictionaryOutLanguage>
+<EmbeddedCover></EmbeddedCover>
+</x-metadata>
+</metadata>
+<manifest>
+  <item href="g000002.xhtml" id="g000002.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000003.xhtml" id="g000003.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000004.xhtml" id="g000004.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000005.xhtml" id="g000005.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000006.xhtml" id="g000006.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000007.xhtml" id="g000007.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000008.xhtml" id="g000008.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000009.xhtml" id="g000009.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000010.xhtml" id="g000010.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000011.xhtml" id="g000011.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000012.xhtml" id="g000012.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000013.xhtml" id="g000013.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000014.xhtml" id="g000014.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000015.xhtml" id="g000015.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000016.xhtml" id="g000016.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000017.xhtml" id="g000017.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000018.xhtml" id="g000018.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000019.xhtml" id="g000019.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000020.xhtml" id="g000020.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000021.xhtml" id="g000021.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000022.xhtml" id="g000022.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000023.xhtml" id="g000023.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000024.xhtml" id="g000024.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000025.xhtml" id="g000025.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000026.xhtml" id="g000026.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000027.xhtml" id="g000027.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000028.xhtml" id="g000028.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000029.xhtml" id="g000029.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000030.xhtml" id="g000030.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000031.xhtml" id="g000031.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000032.xhtml" id="g000032.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000033.xhtml" id="g000033.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000034.xhtml" id="g000034.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000035.xhtml" id="g000035.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000036.xhtml" id="g000036.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000037.xhtml" id="g000037.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000038.xhtml" id="g000038.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000039.xhtml" id="g000039.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000040.xhtml" id="g000040.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000041.xhtml" id="g000041.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000042.xhtml" id="g000042.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000043.xhtml" id="g000043.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000044.xhtml" id="g000044.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000045.xhtml" id="g000045.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000046.xhtml" id="g000046.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000047.xhtml" id="g000047.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000048.xhtml" id="g000048.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000049.xhtml" id="g000049.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000050.xhtml" id="g000050.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000051.xhtml" id="g000051.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000052.xhtml" id="g000052.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000053.xhtml" id="g000053.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000054.xhtml" id="g000054.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000055.xhtml" id="g000055.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000056.xhtml" id="g000056.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000057.xhtml" id="g000057.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000058.xhtml" id="g000058.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000059.xhtml" id="g000059.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000060.xhtml" id="g000060.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000061.xhtml" id="g000061.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000062.xhtml" id="g000062.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000063.xhtml" id="g000063.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000064.xhtml" id="g000064.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000065.xhtml" id="g000065.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000066.xhtml" id="g000066.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000067.xhtml" id="g000067.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000068.xhtml" id="g000068.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000069.xhtml" id="g000069.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000070.xhtml" id="g000070.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000071.xhtml" id="g000071.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000072.xhtml" id="g000072.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000073.xhtml" id="g000073.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000074.xhtml" id="g000074.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000075.xhtml" id="g000075.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000076.xhtml" id="g000076.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000077.xhtml" id="g000077.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000078.xhtml" id="g000078.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000079.xhtml" id="g000079.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000080.xhtml" id="g000080.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000081.xhtml" id="g000081.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000082.xhtml" id="g000082.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000083.xhtml" id="g000083.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000084.xhtml" id="g000084.xhtml" media-type="application/xhtml+xml" />
+  <item href="g000085.xhtml" id="g000085.xhtml" media-type="application/xhtml+xml" />
+</manifest>
+<spine>
+  <itemref idref="g000002.xhtml" />
+  <itemref idref="g000003.xhtml" />
+  <itemref idref="g000004.xhtml" />
+  <itemref idref="g000005.xhtml" />
+  <itemref idref="g000006.xhtml" />
+  <itemref idref="g000007.xhtml" />
+  <itemref idref="g000008.xhtml" />
+  <itemref idref="g000009.xhtml" />
+  <itemref idref="g000010.xhtml" />
+  <itemref idref="g000011.xhtml" />
+  <itemref idref="g000012.xhtml" />
+  <itemref idref="g000013.xhtml" />
+  <itemref idref="g000014.xhtml" />
+  <itemref idref="g000015.xhtml" />
+  <itemref idref="g000016.xhtml" />
+  <itemref idref="g000017.xhtml" />
+  <itemref idref="g000018.xhtml" />
+  <itemref idref="g000019.xhtml" />
+  <itemref idref="g000020.xhtml" />
+  <itemref idref="g000021.xhtml" />
+  <itemref idref="g000022.xhtml" />
+  <itemref idref="g000023.xhtml" />
+  <itemref idref="g000024.xhtml" />
+  <itemref idref="g000025.xhtml" />
+  <itemref idref="g000026.xhtml" />
+  <itemref idref="g000027.xhtml" />
+  <itemref idref="g000028.xhtml" />
+  <itemref idref="g000029.xhtml" />
+  <itemref idref="g000030.xhtml" />
+  <itemref idref="g000031.xhtml" />
+  <itemref idref="g000032.xhtml" />
+  <itemref idref="g000033.xhtml" />
+  <itemref idref="g000034.xhtml" />
+  <itemref idref="g000035.xhtml" />
+  <itemref idref="g000036.xhtml" />
+  <itemref idref="g000037.xhtml" />
+  <itemref idref="g000038.xhtml" />
+  <itemref idref="g000039.xhtml" />
+  <itemref idref="g000040.xhtml" />
+  <itemref idref="g000041.xhtml" />
+  <itemref idref="g000042.xhtml" />
+  <itemref idref="g000043.xhtml" />
+  <itemref idref="g000044.xhtml" />
+  <itemref idref="g000045.xhtml" />
+  <itemref idref="g000046.xhtml" />
+  <itemref idref="g000047.xhtml" />
+  <itemref idref="g000048.xhtml" />
+  <itemref idref="g000049.xhtml" />
+  <itemref idref="g000050.xhtml" />
+  <itemref idref="g000051.xhtml" />
+  <itemref idref="g000052.xhtml" />
+  <itemref idref="g000053.xhtml" />
+  <itemref idref="g000054.xhtml" />
+  <itemref idref="g000055.xhtml" />
+  <itemref idref="g000056.xhtml" />
+  <itemref idref="g000057.xhtml" />
+  <itemref idref="g000058.xhtml" />
+  <itemref idref="g000059.xhtml" />
+  <itemref idref="g000060.xhtml" />
+  <itemref idref="g000061.xhtml" />
+  <itemref idref="g000062.xhtml" />
+  <itemref idref="g000063.xhtml" />
+  <itemref idref="g000064.xhtml" />
+  <itemref idref="g000065.xhtml" />
+  <itemref idref="g000066.xhtml" />
+  <itemref idref="g000067.xhtml" />
+  <itemref idref="g000068.xhtml" />
+  <itemref idref="g000069.xhtml" />
+  <itemref idref="g000070.xhtml" />
+  <itemref idref="g000071.xhtml" />
+  <itemref idref="g000072.xhtml" />
+  <itemref idref="g000073.xhtml" />
+  <itemref idref="g000074.xhtml" />
+  <itemref idref="g000075.xhtml" />
+  <itemref idref="g000076.xhtml" />
+  <itemref idref="g000077.xhtml" />
+  <itemref idref="g000078.xhtml" />
+  <itemref idref="g000079.xhtml" />
+  <itemref idref="g000080.xhtml" />
+  <itemref idref="g000081.xhtml" />
+  <itemref idref="g000082.xhtml" />
+  <itemref idref="g000083.xhtml" />
+  <itemref idref="g000084.xhtml" />
+  <itemref idref="g000085.xhtml" />
+</spine>
+<tours></tours>
+<guide></guide>
+</package>

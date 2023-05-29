@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <TEI xmlns="http://www.crosswire.org/2013/TEIOSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.crosswire.org/2013/TEIOSIS/namespace
+                          http://www.crosswire.org/OSIS/teiP5osis.2.5.0.xsd">
+
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Webster's Dictionary 1828</title>
+  </titleStmt>
+  <publicationStmt>
+   <p>CC0: To the extent possible under law, Christian Liberty Institute has waived all copyright and related or neighboring rights to this work.</p>
+  </publicationStmt>
+  <sourceDesc>
+   <p>http://codeberg.org/christianlibertyinstitute/webster1828/</p>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+<text>
+    <body>
+    
+    </body>
+</text>
