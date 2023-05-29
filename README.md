@@ -26,6 +26,7 @@ This has been tested with:
 - The SWORD module using MacSword and Xiphos.
 - KOReader (2023 release) running on a Kobo Aura H2O.
 - An Amazon Kindle Paperwhite.
+
 I don't use Kobo's built-in dictionary or Plato, so I cannot vouch for the quality of those.
 
 ## Building From Source
