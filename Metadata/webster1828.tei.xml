@@ -10,10 +10,10 @@
    <title>Webster's Dictionary 1828</title>
   </titleStmt>
   <publicationStmt>
-   <p>CC0: To the extent possible under law, Christian Liberty Institute has waived all copyright and related or neighboring rights to this work.</p>
+   <p>CC BY-SA 4.0: This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.</p>
   </publicationStmt>
   <sourceDesc>
-   <p>http://codeberg.org/christianlibertyinstitute/webster1828/</p>
+   <p>http://codeberg.org/akaitsurugi/webster1828/</p>
   </sourceDesc>
  </fileDesc>
 </teiHeader>
@@ -23,3 +23,4 @@
     
     </body>
 </text>
+</TEI>
