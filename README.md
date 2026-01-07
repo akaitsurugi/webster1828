@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose for creating this is to preserve, and promote the use of, the 1828 version of Webster's Dictionary. After reviewing several dictionaries, I found this one to have the best definitions, especially for understanding things written during the 17<sup>th</sup>-19<sup>th</sup> centuries. Dictionaries that came out in the 20<sup>th</sup> and 21<sup>st</sup> centuries are lackluster compared to the previous ones, since post-modernists felt that language was another "social construct" that needed to be torn apart and turned into nothing. You can clearly see this by comparing definitions over time, where they become more vague and sometimes even the opposite of what they were originally.
+The purpose for creating this is to preserve, and promote the use of, the 1828 version of Webster's dictionary. After reviewing several dictionaries, I found this one to have the best definitions, especially for understanding things written during the 17<sup>th</sup>-19<sup>th</sup> centuries. Dictionaries that came out in the 20<sup>th</sup> and 21<sup>st</sup> centuries are lackluster compared to the previous ones, since post-modernists felt that language was another "social construct" that needed to be torn apart and turned into nothing. You can clearly see this by comparing definitions over time, where they become more vague and sometimes even the opposite of what they were originally.
 
 There are already online versions of the 1828 dictionary available, but I wanted some offline options so that I could avoid the massive distraction of the Internet while studying. I also converted the [1844 dictionary](https://codeberg.org/akaitsurugi/webster1844) since the source was available and it isn't that bad, but I will only be updating this version. The 1913 dictionary file was a mess, so I didn't convert that, but there are [StarDict](http://jsomers.net/blog/dictionary) and [Apple](https://github.com/websterParser/WebsterParser) formats for the 1913 dictionary out there already.
 
@@ -23,8 +23,8 @@ Note that the `words-in-progress.csv` file contains more columns than the `webst
 
 This has been tested with:
 - The Dictionary.app in Mac OS X Snow Leopard. It may work with earlier versions and should work with whatever garbage OS Apple is putting out now.
-- The SWORD module using MacSword and Xiphos.
-- KOReader (2023 release) running on a Kobo Aura H2O.
+- The SWORD module using Eloquent and Xiphos.
+- KOReader running on Kobo devices.
 - An Amazon Kindle Paperwhite.
 
 I don't use Kobo's built-in dictionary or Plato, so I cannot vouch for the quality of those.
